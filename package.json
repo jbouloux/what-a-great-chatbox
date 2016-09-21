@@ -1,0 +1,23 @@
+{
+  "name": "what-a-great-chatbox",
+  "version": "0.1.0",
+  "description": "Best Chatbox Ever ! :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbouloux/what-a-great-chatbox.git"
+  },
+  "keywords": [
+    "Chatbox",
+    "electron"
+  ],
+  "author": "JBouloux",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jbouloux/what-a-great-chatbox/issues"
+  },
+  "homepage": "https://github.com/jbouloux/what-a-great-chatbox#readme"
+}
